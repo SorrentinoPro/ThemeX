@@ -1,0 +1,2 @@
+# ThemeX
+WP Theme
